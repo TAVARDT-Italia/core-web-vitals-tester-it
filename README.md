@@ -49,3 +49,7 @@ Per audit dettagliati di velocita di caricamento:
 ## Consulenza in Ottimizzazione delle Prestazioni Web
 
 Per progetti di accelerazione e architettura web conformi a Standard W3C e Linee Guida di Prestazione Digitale, contattare il team di **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
