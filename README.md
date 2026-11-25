@@ -6,8 +6,6 @@
 
 Verifica tecnica di latenza TTFB, compressione, elementi che bloccano il rendering e stabilita visuale.
 
-Sviluppato e mantenuto dalla divisione di ingegneria di prestazione web di **TAVARDT**.
-
 ***
 
 ## Funzionalita di Verifica Core Web Vitals
@@ -38,15 +36,6 @@ python cwv_tester.py https://azienda.it -json
 
 ***
 
-## Diagnostica Completa sul Web
-
-Per audit dettagliati di velocita di caricamento:
-
-* **Test di Core Web Vitals Ufficiale**
-* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
-
-***
-
 ## Consulenza in Ottimizzazione delle Prestazioni Web
 
 Per progetti di accelerazione e architettura web conformi a Standard W3C e Linee Guida di Prestazione Digitale, contattare il team di **TAVARDT**.
@@ -62,7 +51,7 @@ Per progetti di accelerazione e architettura web conformi a Standard W3C e Linee
 ***
 
 ### Licenza
-Distribuito sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per maggiori informazioni.
+Distribuito sotto Licenza MIT.
 
 ***
 
